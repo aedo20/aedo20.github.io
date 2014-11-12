@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Exercise 3: HTML wireframe</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="A basic HTML layout styles with CSS.">
+        <meta name="keywords" content="HTML,CSS,layout,wireframe,mmc3260">
+        <meta name="author" content="Nicole Aedo">
+        <link rel="stylesheet" type="text/css" href="css/layout.css">
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+        
+            <header>
+                <h1>Nicole Aedo</h1>
+                <img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
+            </header>
+            
+            <nav>
+                <a href="1">Home</a>
+                <a href="2">About</a>
+                <a href="3">Work</a>
+                <a href="4">Hobbies</a>
+                <a href="5">Contact</a>
+            </nav>
+            
+            <article>
+                <h1>Photojournalist</h1>
+                <h2>I'm a working photographer, looking to explore.</h2>
+                <div class="photo-with-caption">
+                    <img src="me.jpg" alt="mme.jpg" height="42" width="42">
+
+                    <p>This photo was taken while I was interning with photographer and food columnist Tommy Thompson from Sportsman Magazine.</p>
+                </div>
+                <p> So explore my page and see what my pictures can offer you.</p>
+            </article>
+            
+            <footer>
+                <p>&copy; 2014 Nicole Aedo</p>
+            </footer>
+        
+        </div>
+
+    </body>
+
+</html>
