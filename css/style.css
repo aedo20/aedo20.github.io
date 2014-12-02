@@ -1,0 +1,183 @@
+
+
+* {
+
+
+    margin: 0;
+
+
+    padding: 0;
+
+
+}
+
+
+body {
+
+
+    font-family: Ariel, Helvetica, sans-serif;
+
+
+}
+
+
+img {
+
+
+    max-width: 100%;
+
+
+}
+
+
+header h1 {
+
+
+    font-family: Ariel, Helvetica, sans-serif;
+
+
+    text-align: center;
+
+
+}
+
+
+header {
+
+
+    margin-bottom: 20px;
+
+
+    font: Ariel, Helvetica, sans-serif;
+
+
+}
+
+
+nav {
+
+
+    background-color: #000000;
+
+
+    clear: both;
+
+
+    color: #ffffff;
+
+
+}
+
+
+nav a {
+
+
+    color: #ffffff;
+
+
+    font: Ariel, Helvetica, sans-serif;
+
+
+    padding: 10px;
+
+
+    text-decoration: none;
+
+
+}
+
+
+article h1 {
+
+
+    font-family: Ariel, Helvetica, sans-serif;
+
+
+}
+
+
+article h2 {
+
+
+    font-family: Ariel, Helvetica, sans-serif;
+
+
+}
+
+
+footer a visited {
+
+
+    text-decoration: none;
+
+
+}
+
+
+footer {
+
+
+    background-color: #000000;
+
+
+    font-family: Ariel, Helvetica, sans-serif;
+
+
+    color: #ffffff;
+
+
+    text-align: center;
+
+
+    align-content: center;
+
+
+}
+
+
+.wrapper {
+
+
+    margin: 0 auto;
+
+
+    max-width: 960px;
+
+
+}
+
+
+.bodyimage {
+
+
+    width: 100%;
+
+
+}
+
+
+.details {
+
+
+    width: 80%;
+
+
+    margin: auto;
+
+
+}
+
+
+#franchella {
+
+
+    margin: auto;
+
+
+    display: block;
+
+
+    width: 100%;
+
+
+}
